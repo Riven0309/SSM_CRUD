@@ -4,7 +4,7 @@
 
 ## 运用到一些技术
 
-[Mybatis-generator (Mybatis逆向工程)]( http://mybatis.org/generator/ )，根据设计好的数据库表来生产相应的实体类及mapper文件
+[Mybatis-generator (Mybatis逆向工程)]( http://mybatis.org/generator/ )，根据设计好的数据库表来生成相应的实体类及mapper文件
 
 [Mybatis-PageHelper(分页插件)]( https://pagehelper.github.io/ )，用于完成员工数据在网页上的分页显示
 
